@@ -1,0 +1,8 @@
+class contaBasica(){
+fun main soma(){
+         val operador1 = 10
+         val operador2 = 20
+         println(operador1+operador2)
+    }
+
+}
